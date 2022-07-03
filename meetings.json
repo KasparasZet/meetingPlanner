@@ -1,0 +1,103 @@
+{
+  "meetingRegister": [
+    {
+      "attendants": [
+        {
+          "name": "Kasparas"
+        },
+        {
+          "name": "Jonas"
+        },
+        {
+          "name": "Petras"
+        },
+        {
+          "name": "Kestas J"
+        }
+      ],
+      "name": "Neoficialus",
+      "responsiblePerson": "Kasparas",
+      "description": "Pasibuti",
+      "startDate": "2022-09-01T00:00:00",
+      "endDate": "2022-09-09T00:00:00",
+      "Category": "TeamBuilding",
+      "Type": "InPerson"
+    },
+    {
+      "attendants": [
+        {
+          "name": "Kestas"
+        },
+        {
+          "name": "Zigmas"
+        },
+        {
+          "name": "Gedas"
+        }
+      ],
+      "name": "Kesto .Net pasitarimas",
+      "responsiblePerson": "Kestas",
+      "description": "Pasitarti del projekto tinkamumo",
+      "startDate": "2022-09-09T00:00:00",
+      "endDate": "2022-09-09T00:00:00",
+      "Category": "Hub",
+      "Type": "Live"
+    },
+    {
+      "attendants": [
+        {
+          "name": "Kestas"
+        }
+      ],
+      "name": "Laisvalaikio aptarimas",
+      "responsiblePerson": "Kestas",
+      "description": "Pasitarti del laisvalaikio nedarbo metu",
+      "startDate": "2022-09-09T00:00:00",
+      "endDate": "2022-09-09T00:00:00",
+      "Category": "short",
+      "Type": "live"
+    },
+    {
+      "attendants": [
+        {
+          "name": "Gedas"
+        }
+      ],
+      "name": "Dezinformacija",
+      "responsiblePerson": "Gedas",
+      "description": "Dezinformacijos skleidimas darbo vietoje",
+      "startDate": "2022-09-09T00:00:00",
+      "endDate": "2022-09-09T00:00:00",
+      "Category": "hub",
+      "Type": "live"
+    },
+    {
+      "attendants": [
+        {
+          "name": "Simas"
+        }
+      ],
+      "name": "Dezinformacija .Net kode",
+      "responsiblePerson": "Simas",
+      "description": "Netinkama informacija kode",
+      "startDate": "2022-09-09T00:00:00",
+      "endDate": "2022-09-09T00:00:00",
+      "Category": "short",
+      "Type": "live"
+    },
+    {
+      "attendants": [
+        {
+          "name": "Rimas"
+        }
+      ],
+      "name": "Atlyginimu pasitarimas",
+      "responsiblePerson": "Rimas",
+      "description": "Atliginimu mazinimas",
+      "startDate": "2022-05-05T00:00:00",
+      "endDate": "2022-05-05T00:00:00",
+      "Category": "Short",
+      "Type": "Live"
+    }
+  ]
+}
